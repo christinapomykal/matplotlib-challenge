@@ -32,5 +32,5 @@ It would be interesting for future studies to normalize the mouse weight to furt
 
 ![weightTumorVol_Capomulin_scatter](Images/weightTumorVol_Capomulin_scatter.png)
 
-![weightTumorVol_Capomulin_regression](Images/weightTumorVol_Capomulin_regression.png)
+![weightTumorVol_Capomulin_regress](Images/weightTumorVol_Capomulin_regress.png)
 
