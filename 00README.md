@@ -10,12 +10,25 @@ The bar graph shows the number of data points per drug regimen. All drug treatme
 
 ![bar_drugs_pyplot](Images/bar_drugs_pyplot.png)
 
+![pie_gender_pyplot](Images/pie_gender_pyplot.png)
+
 ### Final tumor volumes of four regimens
 
 The four most promising drug regimens, Capomulin, Ramicane, Infubinol, and Ceftamin, are further analyzed. Boxplots for each show mice treated with Capomulin and Ramicane have smaller final tumor volumes compared to mice treated with Infubinol and Ceftamin. Additionally the IQR for Capomulin and Ramicane are smaller, indicating a more tight distribution in the data points. Of the 4 drugs, only Infubinal has an outlier value. 
+
+![drug_boxplot](Images/drug_boxplot.png)
 
 ### Capomulin
 
 Two mice treated with Capomulin, l509 and g288, were plotted on a line graph and show how tumor volume changes over time. Tumor volume in both mice show signs of responding to the drug treatment by 10 - 20 days, and nearing lowest tumor volume size in 35 - 40 days. 
 
+![line_g288_Capomulin](Images/line_g288_Capomulin.png)
+
+![line_l509_Capomulin](Images/line_l509_Capomulin.png)
+
 There is a positive relationship between average tumor volume and mouse weight as seen in the scatter plot. The correlation coefficient and linear regression model indicate a strong correlation between mouse weight and average tumor volume for mice treated with Capomulin. It would be interesting for future studies to normalize the mouse weight to further investigate the affect of Capomulin on tumor volume reduction. 
+
+![weightTumorVol_Capomulin_scatter](Images/weightTumorVol_Capomulin_scatter.png)
+
+![weightTumorVol_Capomulin_regression](Images/weightTumorVol_Capomulin_regression.png)
+
