@@ -1,6 +1,6 @@
 ## Observations and Insights 
 
-This project analyzes 2 datasets from a mice study screening for potential anti-cancer pharmaceuticals. The study treated 249 mice with 10 different drug regimens over the course of 45 days, and tumor development was measured at various timepoints. The drug of interest, Capomulin, is compared to the other regimens, and found to be the most promising. 
+This project analyzes 2 datasets from a mice study screening for potential anti-cancer pharmaceuticals. The study treated 249 mice with 10 different drug regimens over the course of 45 days, and tumor development was measured at various timepoints. The drug of interest, Capomulin, is compared to the other regimens. 
 
 ### Data analysis
 
@@ -26,7 +26,9 @@ Two mice treated with Capomulin, l509 and g288, were plotted on a line graph and
 
 ![line_l509_Capomulin](Images/line_l509_Capomulin.png)
 
-There is a positive relationship between average tumor volume and mouse weight as seen in the scatter plot. The correlation coefficient and linear regression model indicate a strong correlation between mouse weight and average tumor volume for mice treated with Capomulin. It would be interesting for future studies to normalize the mouse weight to further investigate the affect of Capomulin on tumor volume reduction. 
+There is a positive relationship between average tumor volume and mouse weight as seen in the scatter plot. The correlation coefficient and linear regression model indicate a strong correlation between mouse weight and average tumor volume for mice treated with Capomulin. 
+
+It would be interesting for future studies to normalize the mouse weight to further investigate the affect of Capomulin on tumor volume reduction. Additionally Ramicane can be investigated further since the box plot shows tumor reducing properties similar to Capomulin and relatively lower variablity in data points. 
 
 ![weightTumorVol_Capomulin_scatter](Images/weightTumorVol_Capomulin_scatter.png)
 
